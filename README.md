@@ -12,6 +12,9 @@ Here are the steps that were done to sole the issue:
 
 Install and Run:
 
+```
 npm install
 npm test
 open coverage/Chrom*/index.html
+
+```
